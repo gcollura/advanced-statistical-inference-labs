@@ -1,0 +1,5 @@
+cifar-10-batches-py/
+t10k-*
+train-*-ubyte*
+__pycache__/
+.ipynb_checkpoints/
